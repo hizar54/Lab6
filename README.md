@@ -1,3 +1,3 @@
 # Lab6
-its my paractise repository
-HIZER
+its my paractise repository.
+
